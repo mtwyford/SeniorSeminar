@@ -3,7 +3,9 @@ A student project for Managing Scheduling and Optimizing a Solution that reduces
 
 ## Develop a Java Based Solution to Minimize Scheduling Conflicts
 
-The attached CSV/Spreadsheet file is the result of sending out a google form and having students enter their top 5 ranked choices, using the mini table in the spreadsheet that contains the sessions, ID's and speakers.
+The attached CSV/Spreadsheet file is the result of sending out a google form and having students enter their top 5 ranked choices, using the mini table in the spreadsheet that contains the sessions, IDs and speakers.
+
+**Feel free to clean up the spreadsheets, and even create new ones if needed, HOWEVER - you many not alter student preferences in the fiel or spreadsheet.
 
 - 5 Time Slots 
 - 5 Classrooms (16 students max/ class)
@@ -14,4 +16,7 @@ The attached CSV/Spreadsheet file is the result of sending out a google form and
 
 **Goal is to design and code an algorithm that generates a schedule for the students, given structure above, with the fewest number of conflicts
 
+- Generate a schedule for the sessions and speakers, 
+- Create lists for each student so they know what sessions to attend, rooms and times.
+- 
 ![image](https://user-images.githubusercontent.com/12175344/224742353-be49d0a3-38da-4273-81df-62840d424251.png)
