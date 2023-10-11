@@ -1,4 +1,4 @@
-# SeniorSeminar
+# SeniorSeminar - With Chinmay
 A student project for Managing Scheduling and Optimizing a Solution that reduces conflicts
 
 ## Develop a Java Based Solution to Minimize Scheduling Conflicts
@@ -18,5 +18,5 @@ The attached CSV/Spreadsheet file is the result of sending out a google form and
 
 - Generate a schedule for the sessions and speakers, 
 - Create lists for each student so they know what sessions to attend, rooms and times.
-- 
-![image](https://user-images.githubusercontent.com/12175344/224742353-be49d0a3-38da-4273-81df-62840d424251.png)
+
+//more work with Chinmay
