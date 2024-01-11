@@ -1,4 +1,4 @@
-# SeniorSeminar - With Chinmay
+# SeniorSeminar
 A student project for Managing Scheduling and Optimizing a Solution that reduces conflicts
 
 ## Develop a Java Based Solution to Minimize Scheduling Conflicts
