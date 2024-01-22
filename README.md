@@ -19,4 +19,4 @@ The attached CSV/Spreadsheet file is the result of sending out a google form and
 - Generate a schedule for the sessions and speakers, 
 - Create lists for each student so they know what sessions to attend, rooms and times.
 
-//more work with Chinmay
+
